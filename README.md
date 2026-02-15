@@ -1,4 +1,4 @@
-# Noctis
+# Nocturnis
 
 A dark theme for [Obsidian](https://obsidian.md/) with a deep, near-black background and indigo accents.
 
@@ -32,12 +32,12 @@ A dark theme for [Obsidian](https://obsidian.md/) with a deep, near-black backgr
 ### From Community Themes
 1. Open Obsidian Settings
 2. Go to Appearance > Themes
-3. Search for "Noctis"
+3. Search for "Nocturnis"
 4. Click Install and Enable
 
 ### Manual
 1. Download `theme.css` and `manifest.json`
-2. Create a folder called `Noctis` inside your vault's `.obsidian/themes/` directory
+2. Create a folder called `Nocturnis` inside your vault's `.obsidian/themes/` directory
 3. Place both files in the folder
 4. Enable the theme in Settings > Appearance
 
